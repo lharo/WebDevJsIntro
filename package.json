@@ -1,0 +1,14 @@
+{
+  "name": "jsintro",
+  "version": "1.0.0",
+  "description": "A small introduction into JS6",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "lharo",
+  "license": "MIT"
+}
